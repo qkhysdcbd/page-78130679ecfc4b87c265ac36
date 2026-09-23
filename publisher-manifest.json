@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ace58e3aa7f88db4a52be938",
+  "owner": "qkhysdcbd",
+  "repo": "page-78130679ecfc4b87c265ac36",
+  "title": "Kirino",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "78130679ecfc4b87c265ac36",
+      "a": "Kirino",
+      "b": "2027最新官网",
+      "entity": "Kirino",
+      "brand": "Kirino",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6e9c414f109101020a4d273fee207b6e759355e9fb3eedc0eeee9f84503e5ec7",
+      "content": {
+        "primary_entity": "Kirino",
+        "keyword1": "Kirino",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择订阅方式，路由器节点建议单独配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按订阅周期完成配置即可。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_DESCRIPTION": "，Kirino 面向需要稳定海外网络加速的用户，提供基础版、旗舰版和团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并包含 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备，适合小型团队协作。按年付可享受更低的月均成本，用户可结合自身设备数量与流量消耗灵活选择。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期三项展开，帮助快速定位合适的 Kirino 方案。",
+          "AI_FEATURES_TITLE": "套餐选购重点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 2 人日常使用，旗舰版适合多设备家庭，团队版面向 10 人以上协作。",
+          "AI_FEATURE_TITLE_1": "按人数选套餐",
+          "AI_FEATURE_TEXT_2": "每档套餐对同时在线的设备数量有不同限制，旗舰版支持 5 台，团队版支持 20 台。",
+          "AI_FEATURE_TITLE_2": "确认设备数量",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付折算后每月更低；基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_3": "对比订阅周期",
+          "AI_GUIDE_INTRO": "从选择服务到完成设备订阅，分三步完成 Kirino 的配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_HERO_INTRO": "Kirino 提供三档海外网络加速订阅，覆盖个人、家庭与团队场景。基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，支持多设备同时在线与流媒体解锁，按年付可进一步降低月均费用。",
+          "AI_HERO_SUBTITLE": "Kirino 海外加速器三档订阅",
+          "AI_HIGHLIGHT_1": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省月均成本",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 游戏加速；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "先确认日常设备数量与每月流量消耗，基础版、旗舰版或团队版对应不同需求。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "查看所选套餐对同时在线设备、流媒体解锁与线路类型的适配要求是否符合使用场景。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照对应客户端提供的订阅配置说明完成导入，在常用设备上启用 Kirino 服务。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Kirino 套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。选择时先看常用设备数量和月流量消耗，再决定是否需要专线节点。",
+          "AI_FAQ_ANSWER_2": "Kirino 支持按月付费，也提供按年付费方案。基础版按年 ¥150，旗舰版按年 ¥350，团队版按年 ¥850，均比按月支付更划算。长期使用可以优先考虑年付。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅链接即可。不同系统有各自的配置文档，导入后选择节点并连接，建议先确认设备数量和套餐限额是否匹配。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线，针对游戏加速做了优化，并配有 7x24 优先工单支持。团队版提供 VIP 专属高带宽节点，适合多人共享或对带宽要求更高的场景。",
+          "AI_FAQ_ANSWER_5": "团队版最多支持 20 台设备同时在线，并提供企业定制路由选项和专属客户经理。多设备或多人使用时，团队版比基础版更容易管理。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "Kirino 可以按月付费还是只能按年付费？",
+          "AI_FAQ_QUESTION_3": "如何在设备上导入 Kirino 订阅？",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "paoluclash.com",
+    "host": "paoluclash.com"
+  },
+  "file_hashes": {
+    "index.html": "8332cdb6b4312b7f17558786343b80fe7ca1721513cf346ddbe2eefd4545d4dc",
+    "sitemap.xml": "55cad460060e526775f27cafb54905fc64d02f4a2213f892503cce073c7a2ca5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4a17458a6088d4e686743446d403d27e84dbe403c0ff85c3ca89452eefaea8ad",
+    "robots.txt": "d29e4dcaf3f94a3120736f3b6c5be382ba16ef151aeee7378e2e4e3d7924adf6",
+    "4a74e41657b157e72deb689ab4b5ff10.txt": "c568d3e4fe33526c125aaaa788ec85901c2b0848bba1610b1aead4fc5f59b34c"
+  },
+  "revision": "c0744b9afac2de6298c4f46b0e32263a2b26b4649d595a862e01fdf584ee2565"
+}
